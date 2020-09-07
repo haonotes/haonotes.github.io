@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Gitter
-    url: https://gitter.im/hexo-theme-icarus/community
+  - name: haonotes
+    url: https://haonotes.github.io/
     about: Redirect your Icarus usage questions to Gitter.
   - name: Gitter
-    url: https://gitter.im/hexo-theme-icarus/community
+    url: https://haonotes.github.io/
     about: 与Icarus使用相关的问题请转至这里。
   - name: Bug Report
     url: https://github.com/ppoffice/hexo-theme-icarus/issues/new?template=bug_report.md
